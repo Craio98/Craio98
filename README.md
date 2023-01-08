@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Craio98
-- Combat engineer 
-- 👀 I’m interested in IT - PYTHON, JAVA <3
+- Engineer 
+- 👀 I’m interested in IT - PYTHON, RPA 
 - 🌱 I’m currently learning A.I.
 
 - 📫 How to reach me : craioveanulm@gmail.com
